@@ -10,8 +10,8 @@
 
 ### Paid
 ![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_code.png)
-![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_df.png)
-![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_calculation.png)
+<img align="left" src="https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_df.png">
+<img align="right" src="https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_calculation.png">
 
 ### Unpaid
 
