@@ -10,26 +10,17 @@
 
 ### Vine Review Totals
 
-#### Paid
 * There were 94 reviews in the Amazon Vine Program. 
-
-#### Unpaid
 * There were 40,471 reviews unafiliated with the Amazon Vine Program.
 
 ### 5-Star Reviews
 
-#### Paid
 * There were 48 5-Star reviews in the Amazon Vine Program. 
-
-#### Unpaid
 * There were 15,663 5-Star reviews unafiliated with the Amazon Vine Program. 
 
 ### Percentage of 5-Star Reviews
 
-#### Paid
 * The percentage of 5-Star reviews in the Amazon Vine Program was aproximately 51 percent. 
-
-#### Unpaid
 * The percentage of 5-Star reviews unafiliated with the Amazaon Vine Program was approximately 39 percent (unpaid)
 
 ## Summary
