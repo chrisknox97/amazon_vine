@@ -6,6 +6,19 @@
 
 ### *Deliverable Two*: To utilize the ``Vine_Table`` dataframe created in Deliverable One, filtering for ``helpful`` reviews and whether said reviews were part of the paid Amazon Vine program to determine whether paid reviews showcased bias compared to their unpaid counterparts. 
 
+## Filtering for Amazon Vine Data
+
+### Paid
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_code.png)
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_df.png)
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_calculation.png)
+
+### Unpaid
+
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/unpaid_code.png)
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/unpaid_df.png)
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/unpaid_calculation.png)
+
 ## Results
 
 The Results of our analysis showed a disparity between reviews affiliated and unaffiliated with the Amazon Vine Program. For this dataset, most reviews were unaffiliated with Amazon Vine. However, those affiliated with the program had a higher propensity to award a product a 5-Star Review compared to the overall 5-Star review percentage. 
