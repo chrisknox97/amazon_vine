@@ -6,7 +6,9 @@
 
 ### *Deliverable Two*: To utilize the ``Vine_Table`` dataframe created in Deliverable One, filtering for ``helpful`` reviews and whether said reviews were part of the paid Amazon Vine program to determine whether paid reviews showcased bias compared to their unpaid counterparts. 
 
-## Filtering for Amazon Vine Data
+## Deliverable One: Creating Dataframes
+
+## Deliverable Two: Filtering for Amazon Vine Data
 
 ### Paid Amazon Vine Participants
 
