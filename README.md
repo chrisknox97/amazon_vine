@@ -8,6 +8,8 @@
 
 ## Results
 
+The Results of our analysis showed a disparity between reviews afilliated and unafiliated with the Amazon Vine Program. For this dataset, the vast majority of reviews were unafiliated with Amazon Vine. However, those affiliated with the program had a higher propensity to award a product a 5-Star Review compared to the overall 5-Star review percentage. 
+
 ### Vine Review Totals
 
 * There were 94 reviews in the Amazon Vine Program. 
@@ -21,6 +23,7 @@
 ### Percentage of 5-Star Reviews
 
 * The percentage of 5-Star reviews in the Amazon Vine Program was aproximately 51 percent. 
-* The percentage of 5-Star reviews unafiliated with the Amazaon Vine Program was approximately 39 percent (unpaid)
+* The percentage of 5-Star reviews unafiliated with the Amazaon Vine Program was approximately 39 percent. 
+* The overall percentage of 5-Star reviews deemed 'helpful' was approximately 39 percent. 
 
 ## Summary
