@@ -4,11 +4,13 @@
 
 ### *Deliverable One*: To connect to an Amazon Web Services (AWS) Instance before extracting, transforming and loading an Amazon Vine dataset into pgAdmin, creating four distinctly useful dataframes in the process. 
 
+* The code used to complete this portion of the analysis can be found [here.](https://github.com/chrisknox97/amazon_vine/blob/main/Amazon_Reviews_ETL.ipynb)
+
 ### *Deliverable Two*: To utilize the ``Vine_Table`` dataframe created in Deliverable One, filtering for ``helpful`` reviews and whether said reviews were part of the paid Amazon Vine program to determine whether paid reviews showcased bias compared to their unpaid counterparts. 
 
-## Deliverable One: Creating Dataframes
+* The code used to complete this portion of the analysis can be found [here.](https://github.com/chrisknox97/amazon_vine/blob/main/Vine_Review_Analysis.ipynb)
 
-## Deliverable Two: Filtering for Amazon Vine Data
+## Filtering a DataFrame
 
 ### Paid Amazon Vine Participants
 
