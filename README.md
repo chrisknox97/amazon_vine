@@ -8,12 +8,17 @@
 
 ## Filtering for Amazon Vine Data
 
-### Paid
-![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_code.png)
-<img align="left" src="https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_df.png">
-<img align="right" src="https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_calculation.png">
+### Paid Amazon Vine Participants
 
-### Unpaid
+From our ``Vine_Table`` we used Google Collab to create a dataframe to house our AWS dataset, filtering for those who were part of the Amazon Vine program. The code used to create that dataframe, and the calculations based around said dataframe are listed below. 
+
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_code.png)
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_df.png)
+![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/paid_calculation.png)
+
+### Unpaid Participants
+
+We also used Google Collab to create a dataframe to filtering for those who were not part of the Amazon Vine program. The code used to create that dataframe, and the calculations based around said dataframe are listed below. 
 
 ![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/unpaid_code.png)
 ![](https://github.com/chrisknox97/amazon_vine/blob/main/PNGs/unpaid_df.png)
